@@ -7,3 +7,15 @@ build/
 .pub-cache/
 .pub/
 graphify-out/
+
+# Flutter / Dart
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+coverage/
+*.log
+local.properties
+**/Pods/
+**/.symlinks/
